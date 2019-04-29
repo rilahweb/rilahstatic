@@ -8,4 +8,9 @@ body {
 }
 
 
-.login form { background: linear-gradient(to bottom, #ff9933, #ff9c7c, #ffadb9, #ffc7e7, #ffe2fe, #ebe1ff, #d5e0ff, #bfdffc, #68ceea, #00bcbc, #00a572, #138808); } 
+.login form { background: linear-gradient(to bottom, #ff9933, #ff9c7c, #ffadb9, #ffc7e7, #ffe2fe, #ebe1ff, #d5e0ff, #bfdffc, #68ceea, #00bcbc, #00a572, #138808); 
+
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+
+} 
