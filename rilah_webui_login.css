@@ -10,6 +10,6 @@ body {
 
 .login form { background: linear-gradient(to bottom, #f6a452, #ffa98a, #ffb8bd, #ffcee5, #ffe5fb, #edecff, #dbf2ff, #d4f7ff, #9af8f8, #63f6db, #50f1a8, #6ee763); 
 
-  
+ box-shadow: inset 0 0 20px 20px rgba(0,0,0,.13); 
 
 } 
