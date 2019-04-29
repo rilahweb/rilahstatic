@@ -8,8 +8,7 @@ body {
 }
 
 
-.login form { background: opacity: 0.5;
-filter: alpha(opacity=50); /* For IE8 and earlier */ ); 
+.login form { background: linear-gradient(to bottom, #f6a452, #ffa98a, #ffb8bd, #ffcee5, #ffe5fb, #edecff, #dbf2ff, #d4f7ff, #9af8f8, #63f6db, #50f1a8, #6ee763); 
 
   
 
