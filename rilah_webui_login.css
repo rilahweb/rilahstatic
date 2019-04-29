@@ -14,3 +14,14 @@ body {
 .login label {
     color: #000000;
 }
+
+
+.button-primary {
+    background: #a32236;
+    border-color: #a32236 #a32236 #a32236;
+    box-shadow: 0 1px 0 #a32236;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #a32236, 1px 0 1px #a32236, 0 1px 1px #a32236, -1px 0 1px #a32236;
+
+}
