@@ -4,7 +4,7 @@ body {
 }
 
 
-.login form { background: linear-gradient(to right top, #2d1225, #5c323e, #8b5855, #b5856e, #d9b68b, #e6ca98, #f2dea6, #fcf3b5, #fcebac, #fde2a3, #fdda9b, #fed194, 0.3); 
+.login form {  background-image: url("https://rilahweb.github.io/ui_bg.jpg",.3); 
 
     box-shadow: inset 0 0 20px 20px rgba(0,0,0,.13);
    
