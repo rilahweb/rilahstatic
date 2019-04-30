@@ -26,3 +26,8 @@ body {
     text-shadow: 0 -1px 1px #a32236, 1px 0 1px #a32236, 0 1px 1px #a32236, -1px 0 1px #a32236;
 
 }
+
+
+.login form .input, .login form input[type=checkbox], .login input[type=text] {
+    background: #fffeb3;
+}
