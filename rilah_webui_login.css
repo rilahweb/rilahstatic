@@ -5,7 +5,7 @@ body {
 
 
 .login form {  background-image: url("https://rilahweb.github.io/login_bg2.png");
-    
+    background-color: rgb(255, 255, 255, 0.0);
 
     box-shadow: inset 0 0 20px 20px rgba(0,0,0,.13);
    
